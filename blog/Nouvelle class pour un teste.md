@@ -1,3 +1,10 @@
+---
+layout: default
+title: Nouvelle class pour un teste
+parent: Blog
+nav_order: 1
+---
+
 # Nouvelle class pour un teste
 
 Quand on veut tester un module on peux soit texter la class qui l'inclue ou (meillieur pratique) créé une nouvelle class qui l'include et juste testé la/les méthode.
