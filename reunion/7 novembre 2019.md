@@ -1,3 +1,10 @@
+---
+layout: default
+title: 7 novembre 2019
+parent: Réunion
+nav_order: 3
+---
+
 # 7 novembre 2019
 
 - Tour de table

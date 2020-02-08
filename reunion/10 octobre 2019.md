@@ -1,3 +1,9 @@
+---
+layout: default
+title: 10 octobre 2019
+parent: Réunion
+nav_order: 1
+---
 
 # 10 octobre 2019
 

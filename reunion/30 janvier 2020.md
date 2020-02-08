@@ -1,3 +1,10 @@
+---
+layout: default
+title: 30 janvier 2020
+parent: Réunion
+nav_order: 7
+---
+
 # 30 janvier 2020
 
 ## Tour de table

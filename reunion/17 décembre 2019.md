@@ -1,3 +1,10 @@
+---
+layout: default
+title: 17 décembre 2019
+parent: Réunion
+nav_order: 6
+---
+
 # 17 décembre 2019
 
 ## Tour de table
