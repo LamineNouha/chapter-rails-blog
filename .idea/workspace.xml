@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab2a05eb-d3e8-4b13-9df3-9ff8f95a4573" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Blog/Nouvelle class pour un teste.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reunion/13 décembre 2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/reunion/13 décembre 2020.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +27,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Blog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog" />
       <recent name="$PROJECT_DIR$/Blog" />
     </key>
   </component>
@@ -44,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581190915897</updated>
-      <workItem from="1581190917130" duration="783000" />
+      <workItem from="1581190917130" duration="1178000" />
     </task>
     <servers />
   </component>
