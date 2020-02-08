@@ -9,6 +9,6 @@ nav_order: 8
 
 ## Tour de table
 
-* [Nouvelle class pour un teste](../blog/Nouvelle class pour un teste)
+## [Nouvelle class pour un teste](../blog/Nouvelle class pour un teste)
 
 
