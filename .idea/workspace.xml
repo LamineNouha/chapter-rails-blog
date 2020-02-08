@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab2a05eb-d3e8-4b13-9df3-9ff8f95a4573" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/10 octobre 2019.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17 décembre 2019.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/21 novembre 2019.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/24 octobre 2019.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 janvier 2020.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5 décembre 2019.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7 novembre 2019.md" beforeDir="false" />
-    </list>
+    <list default="true" id="ab2a05eb-d3e8-4b13-9df3-9ff8f95a4573" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581190915897</updated>
-      <workItem from="1581190917130" duration="241000" />
+      <workItem from="1581190917130" duration="481000" />
     </task>
     <servers />
   </component>
