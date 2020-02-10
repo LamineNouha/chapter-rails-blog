@@ -9,6 +9,18 @@ nav_order: 8
 
 ## Tour de table
 
+## Remplacement de fast_jsonapi
+
+**https://github.com/Bhacaz/bright_serializer**
+
+### Ce qui reste a faire
+
+* Caching
+* Logging instrumentation
+* Meillieur nom 😅
+* Release sur RubyGem
+
+
 ## [Nouvelle class pour un teste](../blog/Nouvelle class pour un teste)
 
 
