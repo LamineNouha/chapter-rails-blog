@@ -34,12 +34,21 @@ end
 
 ### Better support enum
 
+Pourquoi se changement, parce qu'on travaille avec des true/false en Ruby pas des 0/1. Alors même logique pour les enums.
+
 ```ruby
->> ContactMethod.visibilities
+>> ContactMethod.kinds
 {
-             "hide" => 0,
-          "display" => 1,
-    "registry_only" => 2
+           "work" => 1,
+         "mobile" => 2,
+          "pager" => 3,
+           "home" => 4,
+      "codepager" => 5,
+            "fax" => 6,
+       "pharmacy" => 7,
+          "other" => 8,
+     "speed_dial" => 9,
+   "private_line" => 10
 }
 ```
 
@@ -50,8 +59,7 @@ end
 [
     [0] 1
 ]
->> ContactMethod.limit(1).where(kind: ContactMethod.visibilities[:work]).size
-# (3.0ms)  SELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM `contact_methods` WHERE `contact_methods`.`kind` = 1 LIMIT 1) subquery_for_count
+>> ContactMethod.limit(1).where(kind: ContactMethod.kinds[:work]).size
 
 # Rails 5
 
@@ -60,7 +68,6 @@ end
     [0] "work"
 ]
 >> ContactMethod.limit(1).where(kind: :work).size
-# (2.8ms)  SELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM `contact_methods` WHERE `contact_methods`.`kind` = 1 LIMIT 1) subquery_for_count
 ```
 
 ### Cache_key for ActiveRecord::Relation
