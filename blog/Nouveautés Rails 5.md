@@ -25,7 +25,7 @@ end
 
 # Rails 5
 
-Account.not.where(deactivated_at: nil).find_in_batches do |accounts|
+Account.not.where(deactivated_at: nil).in_batches do |accounts|
   # accounts is a ActiveRecord::Batches::BatchEnumerator
   accounts.update_all(optin_scoville: true)
   accounts.destroy_all
