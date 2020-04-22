@@ -1,3 +1,10 @@
+---
+layout: default
+title: The `ONLY_FULL_GROUP_BY` issue
+parent: Blog
+nav_order: 4
+---
+
 # The `ONLY_FULL_GROUP_BY` issue
 
 ## C'est quoi
